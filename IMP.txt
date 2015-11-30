@@ -2,3 +2,6 @@ git log --online
 git status -s : modified files
 git diff
 git diff --cached
+git rebase
+git tag -a v1.0
+push tags separatel - git push origin v1.0 or git push origin --tag (all tags)
