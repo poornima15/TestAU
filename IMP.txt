@@ -1,0 +1,4 @@
+git log --online
+git status -s : modified files
+git diff
+git diff --cached
